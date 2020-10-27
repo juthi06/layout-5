@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+ background-color: darkolivegreen;
+ height: 150px;
+    text-align: center;
+}
+.header h1{
+    color: #fff;
+    padding: 50px;
+}
+
+.wrapper{
+    overflow: hidden;
+}
+.sidebar{
+    width: 20%;
+    height: 600px;
+    float: left;
+    background-color: darkseagreen;
+    text-align: center;
+}
+.sidebar h1{
+    color: #fff;
+    padding-top: 250px;   
+}
+
+.right{
+    width: 80%;
+    background-color: darkorchid;
+    height: 600px;
+    float: right;
+    text-align: center;
+    overflow: hidden;
+
+}
+.right h1{
+    color: #fff;
+    padding-top: 200px;
+}
+.content{
+        height: 150px;
+        width: 100%;
+        background-color: violet;
+        text-align: center;
+        
+        }
+        .content h1{
+            padding-top: 80px;
+        }
+        .post1{
+            height: 150px;
+            background-color: lightseagreen;
+            width: 100%;
+            text-align: center;
+        }
+        .post1 h1{
+            padding-top: 80px;
+        }
+        .post2{
+            height: 150px;
+            background-color: steelblue;
+            width: 100%;
+            text-align: center;
+        }
+        .post2 h1{
+            padding-top: 80px;
+        }
+        .post3{
+            height: 150px;
+            width: 100%;
+            background-color: chocolate;
+            text-align: center;
+
+        }
+        .post3 h1{
+            padding-top: 80px;
+        }
+.footer{
+    background-color: crimson;
+    height: 60px;
+    text-align: center;
+
+}
+.footer h1{
+    color: #fff;
+    padding-top: 20px;
+    
+
+}
